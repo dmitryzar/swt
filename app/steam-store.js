@@ -166,7 +166,7 @@ function init() {
 			{href:'http://steamgamesales.com/'+itemType+'/'+itemId, icon:'http://steamgamesales.com/favicon.ico', text:'Посмотреть на SteamGameSales.com'},
 			{href:'http://www.steamprices.com/'+_cc.curCC.toLowerCase()+'/'+itemType+'/'+itemId, icon:'http://steampub.ru/favicon.ico', text:'Посмотреть на SteamPrices.com'},
 			{href:'http://plati.ru/asp/find.asp?agent=111350&searchstr='+gamename, icon:'http://plati.ru/favicon.ico', text:'Искать на Plati.ru'},
-			{href:'http://v-play.ru/catalogsearch/result/?q='+gamename, icon:'http://v-play.ru/skin/frontend/default/vstyle/favicon.ico', text:'Искать на V-play.ru'},
+			{href:'http://v-play.ru/catalogsearch/result/?q='+gamename, icon:'http://v-play.ru/skin/frontend/default/v2/favicon.ico', text:'Искать на V-play.ru'},
 			{href:'http://steampub.ru/search/'+gamename, icon:'http://steampub.ru/favicon.ico', text:'Искать на SteamPub.ru'},
 		];
 
